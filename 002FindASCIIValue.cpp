@@ -4,6 +4,7 @@
 using namespace std;
 
 int findASCIIValue(char x){
+    // here we convert char to int with help of "type casting"
     return (int) x;
 }
 
@@ -14,6 +15,6 @@ int main(){
     cin >> x;
 
     result = findASCIIValue(x);
-    cout << result;
+    cout << "ASCII Value Of This " << x << " : " << result;
     return 0;
 }
