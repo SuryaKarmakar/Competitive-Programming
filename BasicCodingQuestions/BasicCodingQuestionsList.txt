@@ -3,3 +3,4 @@
 002. Write a program to find ASCII values of a character
 003. Write a program to find Number of digits in an integer
 004. Write a program to find Factorial of a number
+005. Write a program to find Fibonacci series up to n
