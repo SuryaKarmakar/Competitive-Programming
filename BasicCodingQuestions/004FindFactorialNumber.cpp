@@ -1,4 +1,7 @@
-/* Write a program to find Factorial of a number */
+/* Write a program to find Factorial of a number 
+[+] Formula : n! = n x (n - 1)!
+[+] Example : n! = 5!
+=> 5! = 5 x 4 x 3 x 2 x 1 */
 
 #include<iostream>
 using namespace std;
