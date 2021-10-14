@@ -1,1 +1,1 @@
-# Coding Interview Resources With CPP
+# Competitive Programming Resources
